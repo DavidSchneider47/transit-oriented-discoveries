@@ -1,2 +1,2 @@
 # transit-oriented-discoveries
-This repository contains notebooks and files that provide data-driven insights into U.S. urban landscapes. It contains information on approximately 3,900 transit stations in the United States and surrounding land uses, transportation networks, housing and demographics.
+This repository contains notebooks and files that provide data-driven insights into U.S. urban landscapes. It contains information on approximately 3,900 transit stations in the United States and surrounding land uses, transportation networks, housing and demographics. You can learn more at https://www.transitorienteddiscoveries.com/. Sign up to receive regular updates or email connect@transitdiscoveries.com to learn more. 
